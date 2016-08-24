@@ -17,12 +17,6 @@
 <h2>Run:</h2>
 rosrun gh-mavros gh_commander.py
 
-<h2>Links:</h2>
-ROS - http://www.ros.org/ 
-Rhino - https://www.rhino3d.com/
-Grasshopper - http://www.grasshopper3d.com/
-Bengesht - http://www.food4rhino.com/project/bengesht?etx
-                  https://vimeo.com/159845598
-ROS.GH - https://github.com/behrooz-tahanzadeh/ROS.GH
+
 
 
